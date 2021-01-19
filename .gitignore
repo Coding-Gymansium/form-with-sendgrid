@@ -38,3 +38,4 @@ yarn-debug.log*
 # Ignore coverage
 /coverage
 sendgrid.env
+sendgrid.env

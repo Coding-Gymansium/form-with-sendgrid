@@ -11,6 +11,7 @@ gem 'mail_form', '~> 1.8', '>= 1.8.1'
 gem 'pg', '~> 1.1'
 gem 'puma', '~> 5.0'
 gem 'turbolinks', '~> 5'
+gem 'sendgrid-ruby'
 gem 'sass-rails', '>= 6'
 gem 'webpacker', '~> 5.0'
 

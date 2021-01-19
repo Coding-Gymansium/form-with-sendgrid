@@ -1,24 +1,40 @@
-# README
+# Colorado Kettlebell Club Simple Website
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Table of Contents
 
-Things you may want to cover:
+[Description](#description)
+[Technical Specifications](#technical-specification)
 
-* Ruby version
 
-* System dependencies
+## Description
 
-* Configuration
+A simple production website with the following features:
 
-* Database creation
+* General club's information
+* Contact form (send email to the club manager's email)
+* Directions to the club
 
-* Database initialization
+## Technical Specifications
 
-* How to run the test suite
+Rails 6.1.1
+Ruby 3.0.0
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

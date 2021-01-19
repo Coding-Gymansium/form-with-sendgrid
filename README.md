@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-[Description](#description)
-[Technical Specifications](#technical-specification)
+- [Description](#description)
+- [Technical Specifications](#technical-specification)
 
 
 ## Description

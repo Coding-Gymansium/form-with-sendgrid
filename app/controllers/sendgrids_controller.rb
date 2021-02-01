@@ -1,0 +1,1 @@
+SendGridController < ApplicationController

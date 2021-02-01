@@ -5,6 +5,7 @@ ruby '3.0.0'
 
 gem 'rails', '~> 6.1.1'
 gem 'bootsnap', '>= 1.4.4', require: false
+gem 'figaro'
 gem 'image_processing', '~> 1.2'
 gem 'jbuilder', '~> 2.7'
 gem 'mail_form', '~> 1.8', '>= 1.8.1'
